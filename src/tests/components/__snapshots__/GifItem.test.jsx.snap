@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test on <GifItem /> should implement PropTypes 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="titulo"
+      src="https://prueba.js/"
+    />
+  </div>
+</div>
+`;
